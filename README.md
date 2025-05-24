@@ -23,8 +23,8 @@ Step 5:Iterate through each word in the tokenized text.<br>
 <H3>Program:</H3>
 
 ```py
-DEVELOPED BY : LEANN JOBY MATHEW
-REGISTER NO : 212222230074
+DEVELOPED BY :SRIRAM S S
+REGISTER NO : 212222230150
 ```
 
 ```py
